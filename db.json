@@ -1,0 +1,27 @@
+{
+  "users": [
+    { 
+      "name": "David Winalda",
+      "age": 26,
+      "location": "Jakarta"
+    },
+    { 
+      "name": "Ringgas",
+      "age": 26,
+      "location": "Medan"
+    },
+    { 
+      "name": "Rizki",
+      "age": 26,
+      "location": "Bandung"
+    }
+  ],
+  "store": [
+    {
+      "locationName": "Yogyakarta"
+    },
+    {
+      "locationName": "Surabaya"
+    }
+  ]
+}
